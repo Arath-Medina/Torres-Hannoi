@@ -24,4 +24,3 @@ Ejemplo: Si se eligen 6 discos y se presiona el boton para iniciar se mostrará 
 Ejemplo: Si se quiere mover el disco (símbolo de numeral) del poste A al poste C, se debe hacer clic en el botón "C" que se encuentra de bajo del poste A.
 4. El juego termina cuando todos los discos se encuentren bien colocados en el poste C.
 * Se debe tener en cuenta que no se puede colocar un disco de mayor tamaño sobre un disco de menor tamaño, y solo se puede mover un disco a la vez.
-tamaño sobre un disco de menor tamaño, y solo se puede mover un disco a la vez.
