@@ -5,7 +5,7 @@ Aplicacion de escritorio del juego "Torres de Hannoi" hecho en Java con la libre
 
 #### Incluye:
 
-* Código fuente (Archivos con extensión .java).
+* Código fuente (Archivos que se encuentran dentro de la carpeta src).
 * Archivo ejecutable (archivo con extensión .jar) para ejecutar desde cualquier ordenador y probar el funcionamiento de la aplicación.
 
 ## Instrucciones del juego
